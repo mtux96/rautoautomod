@@ -12,10 +12,10 @@ username = ''
 password = ''
 
 subreddit = ''
-page = ''
+page = 'automoderator'
 
 setting1 = '["[META]", "[EVENT]", "[CLAIM]", "[EXPANSION]", "[CONFLICT]", "[MODPOST]", "[DATE]", "[DISCUSSION]"]'
-setting2 = '["[META]", [CLAIM]", "[NEWS]", "[MODPOST]", "[DATE]", "[DISCUSSION]"]'
+setting2 = '["[META]", "[CLAIM]", "[NEWS]", "[MODPOST]", "[DATE]", "[DISCUSSION]"]'
 automodstring = 'title:'
 
 regex_date = 'title: (...*) #autoautomod'
