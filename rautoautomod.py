@@ -6,7 +6,7 @@ import logging
 import argparse
 import re
 
-user_agent = 'reddit auto automoderator bot v0.1 by /u/mtux96 - modified version of rcssbot by /u/nath_schwarz'
+user_agent = 'auto automoderator bot v0.1 by /u/mtux96 - modified version of rcssbot by /u/nath_schwarz'
 
 username = ''
 password = ''
